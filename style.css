@@ -1,11 +1,12 @@
 *{
-   font-family: "BJCree", serif;
-  font-weight: 400;
-  font-style: normal;
-  color: red;
-  background-color: black;
-}
-
-h1{
     text-align: center;
+}
+.paragraph1{
+    color: blue;
+}
+.paragraph2{
+    color: red;
+}
+.paragraph3{
+    color: green;
 }
